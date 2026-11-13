@@ -1,0 +1,22 @@
+{
+  "description": {
+    "translate": "enchantment.funenchantments.scan"
+  },
+  "supported_items": "#minecraft:enchantable/mining",
+  "primary_items": "#minecraft:enchantable/mining",
+  "weight": 2,
+  "max_level": 3,
+  "min_cost": {
+    "base": 15,
+    "per_level_above_first": 12
+  },
+  "max_cost": {
+    "base": 45,
+    "per_level_above_first": 12
+  },
+  "anvil_cost": 5,
+  "slots": [
+    "mainhand"
+  ],
+  "effects": {}
+}

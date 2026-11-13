@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "funenchantments:auto_smelt",
+    "funenchantments:magnet",
+    "funenchantments:filter",
+    "funenchantments:drill",
+    "funenchantments:scan",
+    "funenchantments:lumberjack",
+    "funenchantments:foresters_fortune",
+    "funenchantments:diggers_fortune",
+    "funenchantments:pinger"
+  ]
+}

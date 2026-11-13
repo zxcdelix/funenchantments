@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "funenchantments",
+  "version": "${version}",
+  "name": "FunEnchantments",
+  "description": "Adds powerful mining, digging and lumberjack enchantments for tools.",
+  "authors": [
+    "delixfreak"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ru.load.funenchantments.FunEnchantments"
+    ]
+  },
+  "mixins": [
+    "funenchantments.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}",
+    "java": ">=21"
+  }
+}
